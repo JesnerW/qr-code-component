@@ -29,20 +29,19 @@ body {
   box-shadow: 0 7px 31px -5px #00000026;
 }
 img {
-  width: 250px;
-  height: 250px;
+  width: 300px;
   border-radius: 10px;
 }
 .attribution h1 {
   color: var(--color-atribute-h2);
   font-weight: 700;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   padding: 0 10px;
 }
 .attribution p {
   color: var(--color-atribute-p);
   font-weight: 400;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   line-height: 1.2;
   padding: 0 10px;
 }
