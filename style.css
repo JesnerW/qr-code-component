@@ -33,7 +33,7 @@ img {
   height: 250px;
   border-radius: 10px;
 }
-.attribution h2 {
+.attribution h1 {
   color: var(--color-atribute-h2);
   font-weight: 700;
   font-size: 1.3rem;
